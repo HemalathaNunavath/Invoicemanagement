@@ -21,7 +21,7 @@ Setup Instructions
    💠Node.js and npm installed on your system.
 Steps to Run Locally
   💠Clone the Repository
-   git clone https://github.com/your-username/invoice-management-system.git
+   git clone https://github.com/HemalathaNunavath/Invoicemanagement.git
    cd invoice-management-system
   💠Install Frontend Dependencies
    npm install
