@@ -1,0 +1,20 @@
+{
+  "invoices": [
+    {
+      "id": "86b1",
+      "invoiceNumber": "4556778888",
+      "clientName": "hema",
+      "date": "2322-03-21",
+      "amount": "321312",
+      "status": "Unpaid"
+    },
+    {
+      "id": "2566",
+      "invoiceNumber": "457686",
+      "clientName": "Priya",
+      "date": "2025-01-29",
+      "amount": "7658769",
+      "status": "Paid"
+    }
+  ]
+}

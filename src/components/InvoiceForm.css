@@ -1,0 +1,62 @@
+/* Overall form container */
+form {
+    font-family: Arial, sans-serif;
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Form heading */
+  h2 {
+    font-size: 1.5em;
+    color: #4caf50;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  /* Input fields and select dropdown */
+  input, select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 1em;
+    box-sizing: border-box;
+  }
+  
+  /* Style for input focus */
+  input:focus, select:focus {
+    border-color: #4caf50;
+    outline: none;
+    box-shadow: 0 0 5px rgba(76, 175, 80, 0.3);
+  }
+  
+  /* Submit button */
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4caf50;
+    color: white;
+    font-size: 1em;
+    font-weight: bold;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  /* Button hover effect */
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  /* Form spacing */
+  form input[type="number"], form input[type="date"] {
+    font-size: 1em;
+  }
+  
